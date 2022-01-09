@@ -9,7 +9,9 @@
 
 #### 📗 Latest blog posts.
 <!--START_SECTION:personal-blog-->
+- [Develop integrated solutions with Active Directory B2C and Azure Event Grid.](https:&#x2F;&#x2F;binick.github.io&#x2F;posts&#x2F;2022-01-10_aadb2c-subscribe-to-user-registration-event&#x2F;)
 - [How to enrich a JWT issued by Active Directory B2C with custom policies.](https:&#x2F;&#x2F;binick.github.io&#x2F;posts&#x2F;2021-12-27_enrich-a-jwt-token-with-ief&#x2F;)
 - [How to include code coverage in Azure DevOps pipeline?](https:&#x2F;&#x2F;binick.github.io&#x2F;posts&#x2F;2021-01-02_azure-devops-code-coverage&#x2F;)
-- [SqlServer, EFCore, JSON 👀](https:&#x2F;&#x2F;binick.github.io&#x2F;posts&#x2F;2020-10-22_sqlserver-efcore-json&#x2F;) 
+- [SQL Server, EF Core, JSON 👀](https:&#x2F;&#x2F;binick.github.io&#x2F;posts&#x2F;2020-10-22_sqlserver-efcore-json&#x2F;)
+- [](https:&#x2F;&#x2F;binick.github.io&#x2F;about-me&#x2F;)
 <!--END_SECTION:personal-blog-->
