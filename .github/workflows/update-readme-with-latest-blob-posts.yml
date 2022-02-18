@@ -10,4 +10,4 @@ jobs:
         with:
           feed-url: https://binick.github.io/index.xml
           readme-section: personal-blog
-          template: "- [{{ title }}]({{ link }})\n"
+          template: "- [{{ title }}]({{ link }})\n{{ description }}\n"
