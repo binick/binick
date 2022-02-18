@@ -1,13 +1,13 @@
 <h3 align=center>Hi 👋 I'm Nicola.</h3>
 
 <div align=center>
-    <a href="https://binick.github.io">Blog</a> |
+    <a href="https://binick.blog">Blog</a> |
     <a href="https://twitter.com/nbiancolini">Twitter</a>
 </div>
 
 <hr/>
 
-#### 📗 Latest [blog](https://binick.github.io/) posts.
+#### 📗 Latest [blog](https://binick.blog) posts.
 <!--START_SECTION:personal-blog-->
 - [That time I tasted a frog](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;02&#x2F;18&#x2F;daily-milestone&#x2F;)  
 Clearing my mind of needless thoughts such as a to-do list turned out to be a very good thing for me. Finding the right way to achieve it wasn&#39;t so easy, however.
@@ -19,6 +19,6 @@ Managing multiple reports in Azure DevOps can get complicated, let&#39;s see how
 Sometimes we are forced to work with JSON, it will have happened to you too! In this post, I want to show you how to work with that using EF Core.
 <!--END_SECTION:personal-blog-->
 
-#### ✈️ Latest [UGIdotNET](https://www.ugidotnet.org/ "UGIdotNET") posts.
+#### ✈️ Latest [UGIdotNET](https://www.ugidotnet.org/autore/18876/Nicola-Biancolini "Author profile page") posts.
 
 - [Arricchire token JWT emessi da Azure Active Directory B2C](https://www.ugidotnet.org/tip/2873/Arricchire-JWT-emessi-da-Active-Directory-B2C-con-criteri-personalizzati)
