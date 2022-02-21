@@ -7,7 +7,9 @@
 
 <hr/>
 
-#### 📗 Latest posts.
+### 📗 Latest posts.
+
+#### English.
 <!--START_SECTION:personal-blog-en-->
 - [That time I tasted a frog](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;02&#x2F;18&#x2F;daily-milestone&#x2F;)  
 Clearing my mind of needless thoughts such as a to-do list turned out to be a very good thing for me. Finding the right way to achieve it wasn&#39;t so easy, however.
@@ -18,6 +20,8 @@ Managing multiple reports in Azure DevOps can get complicated, let&#39;s see how
 - [SQL Server, EF Core, JSON](https:&#x2F;&#x2F;binick.blog&#x2F;2020&#x2F;10&#x2F;22&#x2F;sqlserver-efcore-json&#x2F;)  
 Sometimes we are forced to work with JSON, it will have happened to you too! In this post, I want to show you how to work with that using EF Core.
 <!--END_SECTION:personal-blog-en-->
+
+#### Italian.
 <!--START_SECTION:personal-blog-it-->
 - [Quella volta nella quale ho assaggiato una rana](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;02&#x2F;18&#x2F;daily-milestone&#x2F;)  
 Liberare la mente da pensieri inutili come ad esempio la lista di cose da fare si è rivelata una per me un&#39;ottima cosa. Trovare la giusta via per ottenerlo non e&#39; stato tuttavia cosi semplice.
