@@ -23,6 +23,8 @@ Sometimes we are forced to work with JSON, it will have happened to you too! In 
 
 #### Italian.
 <!--START_SECTION:personal-blog-it-->
+- [Connettersi ad Azure SQL in modo sicuro con le identità gestite](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;03&#x2F;15&#x2F;connect-to-azuresql-with-managed-identities&#x2F;)  
+In quanto sviluppatori, siamo abituati a maneggiare chiavi, stringhe di connessione, certificati, nomi utente e password quotidianamente. Forse, proprio per la frequenza con la quale maneggiamo queste informazioni a volte può capitare di abbassare la guardia e non dare loro il trattamento che meriterebbero, esponendoci inconsapevolmente a rischi non banali.
 - [Quella volta nella quale ho assaggiato una rana](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;02&#x2F;18&#x2F;daily-milestone&#x2F;)  
 Liberare la mente da pensieri inutili come ad esempio la lista di cose da fare si è rivelata una per me un&#39;ottima cosa. Trovare la giusta via per ottenerlo non e&#39; stato tuttavia cosi semplice.
 - [Sviluppare soluzioni integrate con Active Directory B2C ed Azure Event Grid.](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;01&#x2F;08&#x2F;aadb2c-subscribe-to-user-registration-event&#x2F;)  
