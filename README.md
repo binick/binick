@@ -11,6 +11,8 @@
 
 #### English.
 <!--START_SECTION:personal-blog-en-->
+- [A new side project](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;03&#x2F;29&#x2F;cloud-governance&#x2F;)  
+Usually when a large company approaches the cloud one of the main concerns is cost management.
 - [That time I tasted a frog](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;02&#x2F;18&#x2F;daily-milestone&#x2F;)  
 Clearing my mind of needless thoughts such as a to-do list turned out to be a very good thing for me. Finding the right way to achieve it wasn&#39;t so easy, however.
 - [Develop integrated solutions with Active Directory B2C and Azure Event Grid.](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;01&#x2F;08&#x2F;aadb2c-subscribe-to-user-registration-event&#x2F;)  
