@@ -25,6 +25,8 @@ Sometimes we are forced to work with JSON, it will have happened to you too! In 
 
 #### Italian.
 <!--START_SECTION:personal-blog-it-->
+- [Un nuovo side project](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;03&#x2F;29&#x2F;cloud-governance&#x2F;)  
+Di solito quando una grande azienda si avvicina al cloud uno dei principali motivi di preoccupazione è la gestione dei costi.
 - [Connettersi ad Azure SQL in modo sicuro con le identità gestite](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;03&#x2F;15&#x2F;connect-to-azuresql-with-managed-identities&#x2F;)  
 In quanto sviluppatori, siamo abituati a maneggiare chiavi, stringhe di connessione, certificati, nomi utente e password quotidianamente. Forse, proprio per la frequenza con la quale maneggiamo queste informazioni a volte può capitare di abbassare la guardia e non dare loro il trattamento che meriterebbero, esponendoci inconsapevolmente a rischi non banali.
 - [Quella volta nella quale ho assaggiato una rana](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;02&#x2F;18&#x2F;daily-milestone&#x2F;)  
