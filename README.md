@@ -25,6 +25,9 @@ Sometimes we are forced to work with JSON, it will have happened to you too! In 
 
 #### Italian.
 <!--START_SECTION:personal-blog-it-->
+- [Migrate Sql Server to Azure](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;04&#x2F;14&#x2F;migrate-sql-server-to-azure&#x2F;)  
+Il lift-and-shift è la strategia che consente la migrazione su Cloud più rapida, meno laboriosa e (almeno inizialmente) meno costosa rispetto ad altri processi.
+In questo articolo vedremo come è possibile migrare un database SQL Server senza generare interruzioni sui servizi già in opera.
 - [Un nuovo side project](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;03&#x2F;29&#x2F;cloud-governance&#x2F;)  
 Di solito quando una grande azienda si avvicina al cloud uno dei principali motivi di preoccupazione è la gestione dei costi.
 - [Connettersi ad Azure SQL in modo sicuro con le identità gestite](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;03&#x2F;15&#x2F;connect-to-azuresql-with-managed-identities&#x2F;)  
@@ -33,6 +36,4 @@ In quanto sviluppatori, siamo abituati a maneggiare chiavi, stringhe di connessi
 Liberare la mente da pensieri inutili come ad esempio la lista di cose da fare si è rivelata una per me un&#39;ottima cosa. Trovare la giusta via per ottenerlo non e&#39; stato tuttavia cosi semplice.
 - [Sviluppare soluzioni integrate con Active Directory B2C ed Azure Event Grid.](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;01&#x2F;08&#x2F;aadb2c-subscribe-to-user-registration-event&#x2F;)  
 Vediamo come è possibile integrare la registrazione di un utente.
-- [Arricchire token JWT emessi da Azure Active Directory B2C](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2021&#x2F;12&#x2F;27&#x2F;enrich-a-jwt-token-with-ief&#x2F;)  
-Personalizzare un JSON Web Token emesso da Azure Active Directory B2C con informazioni presenti su un sistema esterno è possibile: è sufficiente, infatti, sfruttare le possibilità di personalizzazione offerte dai criteri personalizzati.
 <!--END_SECTION:personal-blog-it-->
