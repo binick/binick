@@ -25,7 +25,7 @@ Sometimes we are forced to work with JSON, it will have happened to you too! In 
 
 #### Italian.
 <!--START_SECTION:personal-blog-it-->
-- [Migrate Sql Server to Azure](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;04&#x2F;14&#x2F;migrate-sql-server-to-azure&#x2F;)  
+- [Migrare un database SQL Server on-prem in Azure senza downtime](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;04&#x2F;14&#x2F;migrate-sql-server-to-azure&#x2F;)  
 Il lift-and-shift è la strategia che consente la migrazione su Cloud più rapida, meno laboriosa e (almeno inizialmente) meno costosa rispetto ad altri processi.
 In questo articolo vedremo come è possibile migrare un database SQL Server senza generare interruzioni sui servizi già in opera.
 - [Un nuovo side project](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;03&#x2F;29&#x2F;cloud-governance&#x2F;)  
