@@ -26,6 +26,9 @@ Managing multiple reports in Azure DevOps can get complicated, let&#39;s see how
 
 #### Italian.
 <!--START_SECTION:personal-blog-it-->
+- [Monthly recap 0](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;04&#x2F;29&#x2F;0&#x2F;)  
+Non sono uno scrittore, non lo sono mai stato e questa cosa la so sin dai temi a scuola. Ogni volta superare la colonna e mezzo era un’impresa.
+Pubblicare articoli con regolarità mi porta via molto tempo, e non solo strettamente legato alla scrittura. Per questo ho tratto inspirazione da Troy Hunt ed ho pensato che creare un riepilogo mensile per aggiornarvi sul mio attuale stato e sulle possibili direzioni future potesse essere un buon investimento di tempo.
 - [Migrare un database SQL Server on-prem in Azure senza downtime](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;04&#x2F;14&#x2F;migrate-sql-server-to-azure&#x2F;)  
 Il lift-and-shift è la strategia che consente la migrazione su Cloud più rapida, meno laboriosa e (almeno inizialmente) meno costosa rispetto ad altri processi.
 In questo articolo vedremo come è possibile migrare un database SQL Server senza generare interruzioni sui servizi già in opera.
@@ -35,6 +38,4 @@ Di solito quando una grande azienda si avvicina al cloud uno dei principali moti
 In quanto sviluppatori, siamo abituati a maneggiare chiavi, stringhe di connessione, certificati, nomi utente e password quotidianamente. Forse, proprio per la frequenza con la quale maneggiamo queste informazioni a volte può capitare di abbassare la guardia e non dare loro il trattamento che meriterebbero, esponendoci inconsapevolmente a rischi non banali.
 - [Quella volta nella quale ho assaggiato una rana](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;02&#x2F;18&#x2F;daily-milestone&#x2F;)  
 Liberare la mente da pensieri inutili come ad esempio la lista di cose da fare si è rivelata una per me un&#39;ottima cosa. Trovare la giusta via per ottenerlo non e&#39; stato tuttavia cosi semplice.
-- [Sviluppare soluzioni integrate con Active Directory B2C ed Azure Event Grid.](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;01&#x2F;08&#x2F;aadb2c-subscribe-to-user-registration-event&#x2F;)  
-Vediamo come è possibile integrare la registrazione di un utente.
 <!--END_SECTION:personal-blog-it-->
