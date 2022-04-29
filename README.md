@@ -11,6 +11,9 @@
 
 #### English.
 <!--START_SECTION:personal-blog-en-->
+- [Monthly recap 0](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;04&#x2F;29&#x2F;0&#x2F;)  
+I’m not a writer, I’ve never been one, and I’ve known this since my school essays. Every time I passed the column and a half it was a challenge.
+Publishing articles on a regular basis takes up a lot of my time, and not just strictly for writing. So I took inspiration from Troy Hunt and thought that creating a monthly summary to update you on my current status and possible future directions might be a good investment of time.
 - [A new side project](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;03&#x2F;29&#x2F;cloud-governance&#x2F;)  
 Usually when a large company approaches the cloud one of the main concerns is cost management.
 - [That time I tasted a frog](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;02&#x2F;18&#x2F;daily-milestone&#x2F;)  
@@ -19,8 +22,6 @@ Clearing my mind of needless thoughts such as a to-do list turned out to be a ve
 Let&#39;s see how you can integrate a user&#39;s registration.
 - [How to include code coverage in Azure DevOps pipeline?](https:&#x2F;&#x2F;binick.blog&#x2F;2021&#x2F;01&#x2F;02&#x2F;azure-devops-code-coverage&#x2F;)  
 Managing multiple reports in Azure DevOps can get complicated, let&#39;s see how MSBuild can help us.
-- [SQL Server, EF Core, JSON](https:&#x2F;&#x2F;binick.blog&#x2F;2020&#x2F;10&#x2F;22&#x2F;sqlserver-efcore-json&#x2F;)  
-Sometimes we are forced to work with JSON, it will have happened to you too! In this post, I want to show you how to work with that using EF Core.
 <!--END_SECTION:personal-blog-en-->
 
 #### Italian.
