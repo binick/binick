@@ -26,6 +26,8 @@ Let&#39;s see how you can integrate a user&#39;s registration.
 
 #### Italian.
 <!--START_SECTION:personal-blog-it-->
+- [Micro frontends e Blazor Server, l&#39;inizio del viaggio](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;05&#x2F;22&#x2F;micro-frontends-with-blazor-start-of-the-journay&#x2F;)  
+Non sempre le ciambelle riescono col buco ma questo non vuol dire che non ci sia del buono in loro. Sono incappato in una di queste nel tentativo di realizzare un&#39;architettura a micro frontends con Blazor Server.
 - [Monthly recap 0](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;04&#x2F;29&#x2F;0&#x2F;)  
 Non sono uno scrittore, non lo sono mai stato e questa cosa la so sin dai temi a scuola. Ogni volta superare la colonna e mezzo era un’impresa.
 Pubblicare articoli con regolarità mi porta via molto tempo, e non solo strettamente legato alla scrittura. Per questo ho tratto inspirazione da Troy Hunt ed ho pensato che creare un riepilogo mensile per aggiornarvi sul mio attuale stato e sulle possibili direzioni future potesse essere un buon investimento di tempo.
@@ -36,6 +38,4 @@ In questo articolo vedremo come è possibile migrare un database SQL Server senz
 Di solito quando una grande azienda si avvicina al cloud uno dei principali motivi di preoccupazione è la gestione dei costi.
 - [Connettersi ad Azure SQL in modo sicuro con le identità gestite](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;03&#x2F;15&#x2F;connect-to-azuresql-with-managed-identities&#x2F;)  
 In quanto sviluppatori, siamo abituati a maneggiare chiavi, stringhe di connessione, certificati, nomi utente e password quotidianamente. Forse, proprio per la frequenza con la quale maneggiamo queste informazioni a volte può capitare di abbassare la guardia e non dare loro il trattamento che meriterebbero, esponendoci inconsapevolmente a rischi non banali.
-- [Quella volta nella quale ho assaggiato una rana](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;02&#x2F;18&#x2F;daily-milestone&#x2F;)  
-Liberare la mente da pensieri inutili come ad esempio la lista di cose da fare si è rivelata una per me un&#39;ottima cosa. Trovare la giusta via per ottenerlo non e&#39; stato tuttavia cosi semplice.
 <!--END_SECTION:personal-blog-it-->
