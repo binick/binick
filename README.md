@@ -11,6 +11,8 @@
 
 #### English.
 <!--START_SECTION:personal-blog-en-->
+- [Micro frontends and Blazor Server, the beginning of the journey](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;05&#x2F;22&#x2F;micro-frontends-with-blazor-start-of-the-journay&#x2F;)  
+Not all donuts come out with a hole, but that doesn&#39;t mean there isn&#39;t good in them. I stumbled upon one of these in an attempt to implement a micro frontends architecture with Blazor Server.
 - [Monthly recap 0](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;04&#x2F;29&#x2F;0&#x2F;)  
 I’m not a writer, I’ve never been one, and I’ve known this since my school essays. Every time I passed the column and a half it was a challenge.
 Publishing articles on a regular basis takes up a lot of my time, and not just strictly for writing. So I took inspiration from Troy Hunt and thought that creating a monthly summary to update you on my current status and possible future directions might be a good investment of time.
@@ -20,8 +22,6 @@ Usually when a large company approaches the cloud one of the main concerns is co
 Clearing my mind of needless thoughts such as a to-do list turned out to be a very good thing for me. Finding the right way to achieve it wasn&#39;t so easy, however.
 - [Develop integrated solutions with Active Directory B2C and Azure Event Grid.](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;01&#x2F;08&#x2F;aadb2c-subscribe-to-user-registration-event&#x2F;)  
 Let&#39;s see how you can integrate a user&#39;s registration.
-- [How to include code coverage in Azure DevOps pipeline?](https:&#x2F;&#x2F;binick.blog&#x2F;2021&#x2F;01&#x2F;02&#x2F;azure-devops-code-coverage&#x2F;)  
-Managing multiple reports in Azure DevOps can get complicated, let&#39;s see how MSBuild can help us.
 <!--END_SECTION:personal-blog-en-->
 
 #### Italian.
