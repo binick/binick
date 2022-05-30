@@ -1,16 +1,21 @@
 name: Update readme with blog posts
 on:
   workflow_dispatch:
-
+  
+  workflow_call:
+  
 jobs:
   update:
     runs-on: ubuntu-latest
+    
     steps:
+    
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://binick.blog/index.xml
           readme-section: personal-blog-en
           template: "- [{{ title }}]({{ link }})  \n{{ contentSnippet }}"
+          
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://binick.blog/it/index.xml
