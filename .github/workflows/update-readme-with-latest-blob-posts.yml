@@ -2,7 +2,7 @@ name: Update readme with blog posts
 on:
   workflow_dispatch:
   
-  workflow_call:
+  repository_dispatch:
   
 jobs:
   update:
