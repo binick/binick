@@ -3,6 +3,7 @@ on:
   workflow_dispatch:
   
   repository_dispatch:
+    - update-readme
   
 jobs:
   update:
