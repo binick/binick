@@ -26,6 +26,8 @@ Clearing my mind of needless thoughts such as a to-do list turned out to be a ve
 
 #### Italian.
 <!--START_SECTION:personal-blog-it-->
+- [GitHub Pages ed il confusionario processo per applicare HTTPS](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;06&#x2F;01&#x2F;github-pages-and-cloudflare-together&#x2F;)  
+GitHub offre un’esperienza utente appagante come pochi altri servizi. Nonostante questo, però, il processo di configurazione di un dominio personalizzato con il servizio Pages può risultare ostico, qui vi racconto la mia esperienza nella speranza che possa aiutare qualcuno.
 - [Micro frontends e Blazor Server, l&#39;inizio del viaggio](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;05&#x2F;22&#x2F;micro-frontends-with-blazor-start-of-the-journay&#x2F;)  
 Non sempre le ciambelle riescono col buco ma questo non vuol dire che non ci sia del buono in loro. Sono incappato in una di queste nel tentativo di realizzare un&#39;architettura a micro frontends con Blazor Server.
 - [Monthly recap 0](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;04&#x2F;29&#x2F;0&#x2F;)  
@@ -36,6 +38,4 @@ Il lift-and-shift è la strategia che consente la migrazione su Cloud più rapid
 In questo articolo vedremo come è possibile migrare un database SQL Server senza generare interruzioni sui servizi già in opera.
 - [Un nuovo side project](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;03&#x2F;29&#x2F;cloud-governance&#x2F;)  
 Di solito quando una grande azienda si avvicina al cloud uno dei principali motivi di preoccupazione è la gestione dei costi.
-- [Connettersi ad Azure SQL in modo sicuro con le identità gestite](https:&#x2F;&#x2F;binick.blog&#x2F;it&#x2F;2022&#x2F;03&#x2F;15&#x2F;connect-to-azuresql-with-managed-identities&#x2F;)  
-In quanto sviluppatori, siamo abituati a maneggiare chiavi, stringhe di connessione, certificati, nomi utente e password quotidianamente. Forse, proprio per la frequenza con la quale maneggiamo queste informazioni a volte può capitare di abbassare la guardia e non dare loro il trattamento che meriterebbero, esponendoci inconsapevolmente a rischi non banali.
 <!--END_SECTION:personal-blog-it-->
