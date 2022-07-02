@@ -11,6 +11,8 @@
 
 #### English.
 <!--START_SECTION:personal-blog-en-->
+- [How to use a raw SQL script with Entity Framework migrations?](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;07&#x2F;02&#x2F;use-raw-sql-script-with-ef-migrations&#x2F;)  
+We often use Entity Framework migrations as a mere development tool to update our database. In reality it is a very powerful tool that can even bring two company silos into communication.
 - [Github pages and the confusing process for enforcing HTTPS](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;06&#x2F;01&#x2F;github-pages-and-cloudflare-together&#x2F;)  
 GitHub offers a rewarding user experience like few other services. However, the process of creating a custom domain with the Pages service can be tricky; here I share my experience in the hope that it may help someone.
 - [Micro frontends and Blazor Server, the beginning of the journey](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;05&#x2F;22&#x2F;micro-frontends-with-blazor-start-of-the-journay&#x2F;)  
@@ -20,8 +22,6 @@ I’m not a writer, I’ve never been one, and I’ve known this since my school
 Publishing articles on a regular basis takes up a lot of my time, and not just strictly for writing. So I took inspiration from Troy Hunt and thought that creating a monthly summary to update you on my current status and possible future directions might be a good investment of time.
 - [A new side project](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;03&#x2F;29&#x2F;cloud-governance&#x2F;)  
 Usually when a large company approaches the cloud one of the main concerns is cost management.
-- [That time I tasted a frog](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;02&#x2F;18&#x2F;daily-milestone&#x2F;)  
-Clearing my mind of needless thoughts such as a to-do list turned out to be a very good thing for me. Finding the right way to achieve it wasn&#39;t so easy, however.
 <!--END_SECTION:personal-blog-en-->
 
 #### Italian.
