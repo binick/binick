@@ -11,16 +11,16 @@
 
 #### English.
 <!--START_SECTION:personal-blog-en-->
-- [How to use a raw SQL script with Entity Framework migrations?](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;07&#x2F;02&#x2F;use-raw-sql-script-with-ef-migrations&#x2F;)  
+- [How to use a raw SQL script with Entity Framework migrations?](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;07&#x2F;02&#x2F;how-to-use-a-raw-sql-script-with-entity-framework-migrations&#x2F;)  
 We often use Entity Framework migrations as a mere development tool to update our database. In reality it is a very powerful tool that can even bring two company silos into communication.
-- [Github pages and the confusing process for enforcing HTTPS](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;06&#x2F;01&#x2F;github-pages-and-cloudflare-together&#x2F;)  
+- [Github pages and the confusing process for enforcing HTTPS](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;06&#x2F;01&#x2F;github-pages-and-the-confusing-process-for-enforcing-https&#x2F;)  
 GitHub offers a rewarding user experience like few other services. However, the process of creating a custom domain with the Pages service can be tricky; here I share my experience in the hope that it may help someone.
-- [Micro frontends and Blazor Server, the beginning of the journey](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;05&#x2F;22&#x2F;micro-frontends-with-blazor-start-of-the-journay&#x2F;)  
+- [Micro frontends and Blazor Server, the beginning of the journey](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;05&#x2F;22&#x2F;micro-frontends-and-blazor-server-the-beginning-of-the-journey&#x2F;)  
 Not all donuts come out with a hole, but that doesn&#39;t mean there isn&#39;t good in them. I stumbled upon one of these in an attempt to implement a micro frontends architecture with Blazor Server.
-- [Monthly recap 0](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;04&#x2F;29&#x2F;0&#x2F;)  
+- [Monthly recap 0](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;04&#x2F;29&#x2F;monthly-recap-0&#x2F;)  
 I’m not a writer, I’ve never been one, and I’ve known this since my school essays. Every time I passed the column and a half it was a challenge.
 Publishing articles on a regular basis takes up a lot of my time, and not just strictly for writing. So I took inspiration from Troy Hunt and thought that creating a monthly summary to update you on my current status and possible future directions might be a good investment of time.
-- [A new side project](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;03&#x2F;29&#x2F;cloud-governance&#x2F;)  
+- [A new side project](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;03&#x2F;29&#x2F;a-new-side-project&#x2F;)  
 Usually when a large company approaches the cloud one of the main concerns is cost management.
 <!--END_SECTION:personal-blog-en-->
 
