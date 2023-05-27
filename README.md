@@ -12,7 +12,7 @@
 #### English.
 <!--START_SECTION:personal-blog-en-->
 - [How to use a raw SQL script with Entity Framework migrations?](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;07&#x2F;02&#x2F;how-to-use-a-raw-sql-script-with-entity-framework-migrations&#x2F;)  
-We often use Entity Framework migrations as a mere development tool to update our database. In reality it is a very powerful tool that can even bring two company silos into communication.
+Entity Framework migrations are considered a simple development tool to update our database. In reality, it is a very powerful tool that can even connect two corporate silos.
 - [Github pages and the confusing process for enforcing HTTPS](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;06&#x2F;01&#x2F;github-pages-and-the-confusing-process-for-enforcing-https&#x2F;)  
 GitHub offers a rewarding user experience like few other services. However, the process of creating a custom domain with the Pages service can be tricky; here I share my experience in the hope that it may help someone.
 - [Micro frontends and Blazor Server, the beginning of the journey](https:&#x2F;&#x2F;binick.blog&#x2F;2022&#x2F;05&#x2F;22&#x2F;micro-frontends-and-blazor-server-the-beginning-of-the-journey&#x2F;)  
